@@ -1,4 +1,4 @@
-import { EventedProps, createLayerComponent } from "@react-leaflet/core";
+import { EventedProps, createLayerComponent } from "@monsonjeremy/react-leaflet";
 import { LatLngExpression, MarkerOptions } from "leaflet";
 import LeafletDriftMarker from "leaflet-drift-marker";
 import { ReactNode } from "react";

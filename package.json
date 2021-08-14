@@ -44,13 +44,13 @@
     "@types/react": "^16.9.1",
     "leaflet": "^1.7.1",
     "react": "^16.8.6",
-    "react-leaflet": "^3.1.0",
+    "@monsonjeremy/react-leaflet": "^3.2.2",
     "typescript": "^3.9.9"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
     "leaflet": ">=1.7",
-    "react-leaflet": "3.x"
+    "@monsonjeremy/react-leaflet": "^3.2.2"
   },
   "dependencies": {
     "leaflet-drift-marker": "^2.0.0"
